@@ -15,6 +15,7 @@
 ### 💪 Skills
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="width:48px;height:48px;"> 
+
 ### ℹ Stats
 ![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=akcaaytuna&show_icons=true&theme=radical)
 <br></br>
