@@ -1,8 +1,5 @@
 ### 👋 Hi, I’m @akcaaytuna -aka [xulgen]
 - 👀 I’m interested in CyberSecurity.
-- 🌱 I’m currently learning C, Networking and OS Fundamentals.
-- 💖 Problem Solving is my passion.
-- 🏁 Also, I'm a huge Formula1 fan.
 
 ### ⚔ TryHackMe
 *  tryhackme.com/p/xulgen
